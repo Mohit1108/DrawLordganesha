@@ -1,6 +1,6 @@
 # DrawLordganesha
 Draw the Hindu God Lord Ganesh using Turtle
 
-https://codermohit.com/wp-content/uploads/2021/06/Lord-Ganesha-By-Coder-Mohit.png
+<img width="647" alt="Lord Ganesha By Coder Mohit" src="https://user-images.githubusercontent.com/73032070/123541141-8a2d7800-d760-11eb-9868-c53639ea3bdd.png">
 
 See on Website:
